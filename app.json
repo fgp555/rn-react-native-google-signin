@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "dev",
+    "name": "app dev",
     "slug": "com-frankgp-dev",
-    "version": "2025.10.19",
+    "version": "2025.10.22",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "com.frankgp.dev",
@@ -13,7 +13,7 @@
       "bundleIdentifier": "com.frankgp.dev"
     },
     "android": {
-      "versionCode": 19,
+      "versionCode": 22,
       "package": "com.frankgp.dev",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
@@ -40,6 +40,12 @@
           "dark": {
             "backgroundColor": "#000000"
           }
+        }
+      ],
+      [
+        "@react-native-google-signin/google-signin",
+        {
+          "iosUrlScheme": "com.googleusercontent.apps.157768130286-rdaur6cgor2u8equur8jlpjnov6k97gn"
         }
       ]
     ],

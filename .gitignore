@@ -3,6 +3,7 @@
 # dependencies
 node_modules/
 _credentials/
+_delete/
 
 # Expo
 .expo/
